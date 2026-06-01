@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use, translate or build on this work, please cite it as below."
+title: "Audio Vorm Analyse — multitimbrale vorm-analyse met een waarachtigheidsindex (W)"
+abstract: >-
+  Ontleedt audio in stemmen en leest de vorm via contrapunt, fuga-operaties
+  (retrograde, inversie), fase en informatie-indices (comprimeerbaarheid,
+  entropie, onafhankelijkheid), culminerend in W = (H·I)/C, een operationele
+  "waarachtigheids"-index. Batch- en realtime-versies. Onderzoeksinstrument;
+  geen gevalideerde of objectieve claim.
+authors:
+  - family-names: Hogerheijde
+    given-names: Marinus Jacobus
+    affiliation: "MarinUS / soniclab"
+date-released: 2026-06-01
+version: "1.0.0"
+license: CC-BY-4.0
+keywords:
+  - audio analysis
+  - multitimbral
+  - fugue
+  - counterpoint
+  - information theory
+  - entropy
+  - VSM Cantus
+  - authenticity

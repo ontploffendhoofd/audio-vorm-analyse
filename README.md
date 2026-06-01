@@ -4,6 +4,8 @@ Vorm-analyse van audio: ontleed een signaal in **stemmen (streams)** en lees de 
 
 **Author:** Marinus Jacobus Hogerheijde · MarinUS / soniclab · 2026 · **Docs: CC BY 4.0 · Code: MIT**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20482396.svg)](https://doi.org/10.5281/zenodo.20482396) · DOI: [10.5281/zenodo.20482396](https://doi.org/10.5281/zenodo.20482396) — concept (all versions): 10.5281/zenodo.20482395
+
 ## Wat het doet
 
 - **`analyse_way.py`** — batch-engine (`MultitimbralAnalysisSystem`): framet een WAV, splitst het spectrum in N stemmen, per stem formanten/LPC/energie/residu, tussen-stem fase + **contrapunt** + **fuga** (retrograde / inversie / parallel), en indices: comprimeerbaarheid **C**, entropie **H**, fase **P**, onafhankelijkheid **I**, en **W = (H·I)/C**. Plot de vijf curven.
